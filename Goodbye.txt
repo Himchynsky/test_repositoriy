@@ -1,1 +1,2 @@
-print("Goodby WORLD!!!")
+print("Goodbye WORLD!!!")
+print("Goodbye!")
