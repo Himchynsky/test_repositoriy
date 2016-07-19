@@ -1,3 +1,2 @@
-print("Hello 18.07.2016")
-
-print("Новая редакция 18.07.2016")
+print("Welcom")
+print("How do you do")
