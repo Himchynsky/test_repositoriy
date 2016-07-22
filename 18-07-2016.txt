@@ -2,3 +2,6 @@
 print("How do you do";)
 print (What's up!) ПРИВЕТСТВИЕ!!!";)
 print("New klass";)
+print("Hello my dear friend!";)
+print("Glad to see you";)
+
